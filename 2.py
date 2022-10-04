@@ -42,7 +42,7 @@ def main():
 
 
 
-    @input_error
+    @input_errorquit_func
     def add_contact ():
         name = input('Enter name!')
         phone = input('Enter phone!')
